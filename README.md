@@ -41,3 +41,7 @@ Connecting to Local PostgreSQL database...
 Creating 'daily_costs' table if it doesn't exist...
 🚀 Local Database table created successfully!
 ```
+### ✅ Sprint 3: FastAPI Web Server Setup (Completed)
+- Configured a local web routing engine via **FastAPI** and **Uvicorn**.
+- Created verified API routing endpoints for data presentation (`/api/v1/costs`).
+- Linked the data processing logic natively with relational database drivers.
